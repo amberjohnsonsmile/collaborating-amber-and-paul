@@ -5,3 +5,14 @@ function evenNumbers(array) {
         return number % 2 === 0;
     })
 }
+
+let ageArray = [{
+    name: 'Amber',
+    age: '28'
+}, {
+    name: 'Paul',
+    age: '24'
+}, {
+    name: 'Dumbledor',
+    age: '?'
+}];
