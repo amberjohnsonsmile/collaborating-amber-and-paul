@@ -15,3 +15,6 @@ You should remove a file other than index.html.
 
 ### Task 5 - Amber
 You should create an array of objects. Each object should have a name and age.
+
+### Task 6 - Paul
+You should create a new CSS file. Link to it from one of your HTML files.
