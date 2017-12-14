@@ -6,3 +6,6 @@ You should create an array of numbers in a Javascript file, if there isn't one. 
 
 ### Task 2 - Paul
 You should create a new HTML file. Link to it from index.html
+
+### Task 3 - Amber
+You should create a new directory. Move at least one file into that directory.
