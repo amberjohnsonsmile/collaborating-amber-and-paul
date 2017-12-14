@@ -9,3 +9,6 @@ You should create a new HTML file. Link to it from index.html
 
 ### Task 3 - Amber
 You should create a new directory. Move at least one file into that directory.
+
+### Task 4 - Paul
+You should remove a file other than index.html.
