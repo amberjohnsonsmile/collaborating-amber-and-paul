@@ -20,3 +20,6 @@ You should create a new CSS file. Link to it from one of your HTML files.
 
 ### Task 7 - Amber
 You should edit five CSS properties.
+
+### Task 8 - Paul
+Slack your partner. You should both create a new CSS file. Link to it from one of your HTML files.
