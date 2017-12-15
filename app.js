@@ -6,6 +6,8 @@ function evenNumbers(array) {
     })
 }
 
+evenNumbers(numbersArray);
+
 let ageArray = [{
     name: 'Amber',
     age: '28'
@@ -16,3 +18,13 @@ let ageArray = [{
     name: 'Dumbledor',
     age: '?'
 }];
+
+function sum(array) {
+    let total = 0
+    array.map(item => {
+        total += item;
+    });
+    return total;
+}
+
+sum(numbersArray);
